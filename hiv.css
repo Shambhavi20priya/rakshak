@@ -1,0 +1,50 @@
+h1,h3,h4{
+    text-align: center;
+    line-height: 1.6rem;
+    color: brown;
+}
+p{
+    line-height: 2rem;
+}
+h2{
+    line-height: 1.5rem;
+}
+.parallax1{
+    background: url("https://artistswithaids.org/wp-content/uploads/2021/06/10.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 480px;
+}
+.parallax2{
+    background: url("https://img.freepik.com/free-photo/doctor-holds-red-ribbon-hiv-awareness-awareness-world-aids-day-world-sexual-health-day_1150-24413.jpg?w=2000");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 480px;
+}
+.parallax3{
+    background: url("https://t3.ftcdn.net/jpg/00/89/81/04/360_F_89810477_1JqolZYEy9iNallrhWu8cRwI8eIYS2zK.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 450px;
+}
+.parallax4{
+    background: url("https://media.istockphoto.com/id/1303754988/photo/world-aids-day-concept-red-stethoscope-and-red-aids-awareness-ribbon-on-red-background.jpg?b=1&s=170667a&w=0&k=20&c=qxdzBHr0fLPlZp7TFChFGACrhEI6D-uJkWjwG6BHLS0=");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 480px;
+}
+.parallax5{
+    background: url("https://static.toiimg.com/photo/msid-84038184/84038184.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 480px;
+}
+.parallax6{
+    background: url("https://cdn1.poz.com/6642_hiv-aids-is-000013510171.jpg_893abe16-9690-43a0-8a4a-677d5a761b84_x2.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 480px;
+}
+/* .hivsymptons{
+    line-height: 0.5rem;
+} */

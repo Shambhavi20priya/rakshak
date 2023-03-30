@@ -1,0 +1,45 @@
+     .ps {
+        margin-bottom: 20px;
+       margin-left: 60px;
+    }
+
+    .ps a {
+        display: inline-block;
+        margin: 0 30 px;
+        width: 160px;
+        height: 160px;
+        overflow: hidden;
+        border-radius: 50%;
+    }
+
+    .ps a img {
+        width: 100%;
+        filter: grayscale(100%);
+        transition: 0.4s all;
+    }
+
+    .ps a:hover>img {
+        filter: none;
+    }
+
+    .section {
+        width: 600px;
+        /* margin: auto; */
+        margin-top: 0px;
+        font-size: 20px;
+        color: black;
+        text-align: justify;
+        height: 0;
+        overflow: hidden;
+    }
+
+    .section:target {
+        height: auto;
+    }
+    .name {
+        display: block;
+        margin-bottom: 20px;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 22px;
+    }

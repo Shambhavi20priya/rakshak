@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+img{
+    opacity: 0.8;
+    margin-top: 20px;
+}
+.covid{
+    margin-top: 20px;
+    
+}
+.covid-info{
+    padding: 26px;
+    margin:28px;
+    text-align: left;
+    line-height: 2rem;
+    font-size: 18px;
+}
+.types{
+    padding: 26px;
+    margin:28px;
+    text-align: left;
+    line-height: 2rem;
+    font-size: 18px;
+}
+h2{
+    text-align: center;
+}
+.covid-symptoms{
+    padding: 26px;
+    margin:28px;
+    text-align: left;
+    line-height: 2rem;
+    font-size: 18px;
+}
+.covid_symptns1{
+    margin-top: 18px;
+}
+.symptons_li{
+    margin-left: 18px;
+}
+.prevention{
+    padding: 26px;
+    margin:28px;
+    text-align: left;
+    line-height: 2rem;
+    font-size: 18px;
+}
+.prevention_1{
+    margin-top: 18px;
+}
+.info_p1{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+marquee{
+    color: red;
+}
