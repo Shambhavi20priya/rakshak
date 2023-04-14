@@ -1,4 +1,3 @@
-# excalibur
 Project Rakshak
 
 One of most prominent problems as seen at the times of the COVID outbreak was that people were unable to find out whether the hospital located at their vicinity had beds available or not and if yes, then in which ward - General or Special. The primary reason for the detection of this problem was the sudden rise in the number of patients wanting to be admitted in critical condition. This problem almost crashed our entire healthcare system and should not be taken lightly.
